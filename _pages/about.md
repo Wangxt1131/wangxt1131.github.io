@@ -29,9 +29,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-- 有好文再添加吧，有点
+- 有好文再添加吧，要不太丢人了. 具体格式[参考](https://github.com/RayeRen/acad-homepage.github.io/blob/main/_pages/about.md).
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Dynamic Tip-Over Avoidance Method for Mobile Manipulators Based on The Extended Zmp Algorithm for Human-Robot Collaboration](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4067523/1211021/DYNAMIC-TIP-OVER-AVOIDANCE-METHOD-FOR-MOBILE?redirectedFrom=fulltext), **JCISE 2024**
 
 # 🎖 Honors and Awards
 - *202x.xx* todo 
