@@ -41,9 +41,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2018.09 - 2021.06*, Mechanical engineering, North China Univeristy of Technology.
 - *2014.09 - 2018.06*, Engineering in Mechanical Design & Manufacturing and Automation, Liaocheng Univeristy. 
 
-# 💬 Invited Talks
-- *2025.xx*, to do. 
-
 # 💻 Internships
 - *2021.03 - 2021.09*, Robotics Algorithm Engineer, AUBO (BEIJING) ROBOTICS TECHNOLOGY CO., LTD, China.
 - *to do*
+
+# 💬 Invited Talks
+- *2025.xx*, to do. 
