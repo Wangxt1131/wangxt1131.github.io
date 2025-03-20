@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-bio to do
-就一男的
+
 为中华之崛起而读书 
 
 My research interest includes whole body control, mobile manipulation and imitation learning. I have published a few papers about robot control with total <a href='https://scholar.google.com/citations?user=Xb7FFXwAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Xb7FFXwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -44,7 +43,6 @@ My research interest includes whole body control, mobile manipulation and imitat
 
 # 💻 Internships
 - *2023.07 - 2023.09*, Robotics Algorithm Engineer, AUBO (BEIJING) ROBOTICS TECHNOLOGY CO., LTD, China.
-- *to do*
 
 # 💬 Invited Talks
 - *2025.xx*, to do. 
