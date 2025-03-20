@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-LHT's bio.
-to do. 
+bio to do
+就一男的
+为中华之崛起而读书 
 
-My research interest includes whole body control, mobile manipulation and imitation learning. I have published a few papers about robot control with total <a href='https://scholar.google.com/citations?user=WKIU5NoAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=WKIU5NoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes whole body control, mobile manipulation and imitation learning. I have published a few papers about robot control with total <a href='https://scholar.google.com/citations?user=Xb7FFXwAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Xb7FFXwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -30,19 +31,19 @@ My research interest includes whole body control, mobile manipulation and imitat
 # 📝 Publications 
 
 - 有好文再添加吧，要不太丢人了. 具体格式[参考](https://github.com/RayeRen/acad-homepage.github.io/blob/main/_pages/about.md).
-
-- [Dynamic Tip-Over Avoidance Method for Mobile Manipulators Based on The Extended Zmp Algorithm for Human-Robot Collaboration](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4067523/1211021/DYNAMIC-TIP-OVER-AVOIDANCE-METHOD-FOR-MOBILE?redirectedFrom=fulltext), **JCISE 2024**
+- 
 
 # 🎖 Honors and Awards
 - *202x.xx* todo 
 
 # 📖 Educations
-- *2021.09 - now*, Mechanical engineering, Beihang Univeristy. 
-- *2018.09 - 2021.06*, Mechanical engineering, North China Univeristy of Technology.
-- *2014.09 - 2018.06*, Engineering in Mechanical Design & Manufacturing and Automation, Liaocheng Univeristy. 
+- *2023.09 - now*, Mechanical engineering, Research Institute of Aero-Engine, Beihang Univeristy. 
+- *2020.09 - 2023.06*, Mechanical Engineering, School of Mechanical Engineering, Sichuan Univeristy. 
+- *2018.08 - 2020.05*, Mechanical Engineering, Swanson School of Engineering, University of Pittsburgh.
+- *2016.09 - 2018.06*, Mechanical Engineering, Sichuan University Pittsburgh Institute. 
 
 # 💻 Internships
-- *2021.03 - 2021.09*, Robotics Algorithm Engineer, AUBO (BEIJING) ROBOTICS TECHNOLOGY CO., LTD, China.
+- *2023.07 - 2023.09*, Robotics Algorithm Engineer, AUBO (BEIJING) ROBOTICS TECHNOLOGY CO., LTD, China.
 - *to do*
 
 # 💬 Invited Talks
