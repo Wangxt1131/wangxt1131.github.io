@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haitao Liu"
+title                    : "Wang Xiaotong"
 description              : "todo. "
-repository               : "LHT-Liu/lht-liu.github.io"
+repository               : "Wangxt1131/wangxt1131.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haitao Liu"
+  name             : "Xiaotong Wang"
   avatar           : "images/lht_avatar.jpg"
   bio              : "Beihang Univeristy"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "912656542@qq.com"
-  researchgate     : "https://www.researchgate.net/profile/Haitao-Liu-65"
+  email            : "wangxt1131@buaa.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Xiaotong-Wang-66?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LHT-Liu"
+  github           : "Wangxt1131"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/haitao-liu-ba28952b1/"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-4587-7335"
+  orcid            : "https://orcid.org/0009-0003-4009-4195"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
